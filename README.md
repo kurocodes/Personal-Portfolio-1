@@ -13,4 +13,4 @@ This is my personal portfolio website built with Vite + React, designed to be cl
 ### 🛠 Tech Stack
 
 - Frontend: React, Vite
-- Styling: CSS / TailwindCSS (if applicable)
+- Styling: CSS / TailwindCSS
