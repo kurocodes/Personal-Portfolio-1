@@ -4,10 +4,11 @@ import resume_icon from "./resume_icon.svg";
 import work_icon from "./work_icon.svg";
 import contact_icon from "./contact_icon.svg";
 
-import linkedin from "./linkedin.png";
-import github from "./github.png";
+import linkedin from "./icons/linkedin.png";
+import github from "./icons/github.png";
 import twitter from "./twitter.png";
 import instagram from "./icons/instagram.png";
+import fiverr from "./icons/fiverr.png";
 import phone_icon from "./phone_icon.svg";
 import email_icon from "./email_icon.svg";
 import location_icon from "./location_icon.svg";
@@ -56,6 +57,7 @@ export const assets = {
   github,
   twitter,
   instagram,
+  fiverr,
   phone_icon,
   email_icon,
   location_icon,
