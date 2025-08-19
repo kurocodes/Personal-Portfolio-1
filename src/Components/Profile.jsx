@@ -91,7 +91,7 @@ const Profile = () => {
               Email
             </p>
             <p className="font-semibold font-[poppins] text-xs overflow-hidden text-ellipsis">
-              vaishnavdeepak3112@gmail.com
+              kurocodes@outlook.com
             </p>
           </div>
         </div>

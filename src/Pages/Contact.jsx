@@ -97,7 +97,7 @@ const Contact = () => {
             <img src={assets.email_icon_2} alt="" />
             <p className="font-semibold">Email:</p>
           </div>
-          <p className="text-sm">vaishnavdeepak3112@gmail.com</p>
+          <p className="text-sm">kurocodes@outlook.com</p>
         </div>
       </div>
 
