@@ -48,15 +48,6 @@ const Profile = () => {
           </div>
           <div className="p-5 bg-[#F2F7FC] rounded-lg cursor-pointer">
             <a
-              href="https://github.com/kurocodes"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img src={assets.github} alt="Github" className="w-5 h-5" />
-            </a>
-          </div>
-          <div className="p-5 bg-[#F2F7FC] rounded-lg cursor-pointer">
-            <a
               href="https://www.fiverr.com/s/pdg2w8E"
               target="_blank"
               rel="noopener noreferrer"
