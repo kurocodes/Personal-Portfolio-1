@@ -2,6 +2,10 @@
 
 This is my personal portfolio website built with **Vite + React**, designed to be clean, minimal, and visually appealing. It serves as a central hub to showcase my skills, highlight my projects, and provide simple ways for anyone to get in touch.  
 
+### 🌐 Live Preview
+
+👉 [View Live Site](kurocodes.netlify.app)
+
 ### ✨ Features
 
 - 🎨 **Modern UI** with smooth layout and pleasant aesthetics  
