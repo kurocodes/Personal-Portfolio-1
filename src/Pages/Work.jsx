@@ -1,4 +1,3 @@
-import React from "react";
 import Title from "../Components/Title";
 import ProjectCard from "../Components/ProjectCard";
 import { assets } from "../assets/assets";
@@ -37,6 +36,16 @@ const Work = () => {
           github="https://github.com/kurocodes/NekoNime"
           liveDemo="https://nekonime-eight.vercel.app"
           bgColor="bg-[#FFEBD1]"
+        />
+
+        <ProjectCard
+          title="VIBCON 2025 – ISVIB Annual Convention"
+          description="VIBCON 2025 is the official website for the XXX Annual Convention of the Indian Society for Veterinary Immunology & Biotechnology (ISVIB), hosted by ICAR-IVRI Mukteswar."
+          image={assets.VIBCON_thumbnail}
+          techStack="React, Tailwind, Node.js, Express.js, Google Web App Script → Google Sheets"
+          github="https://github.com/kurocodes/VIBCON2025"
+          liveDemo="https://vibcon2025.com"
+          bgColor="bg-[#F2F7FC]"
         />
       </div>
     </div>
