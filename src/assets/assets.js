@@ -27,7 +27,7 @@ import api_icon from "./api.png";
 import wonderlust_thumbnail from "./Project_Previews/Wonderlust_thumbnail.jpg";
 import zerodha_clone_thumbnail from "./Project_Previews/Zerodha_Clone_Thumbnail.jpg";
 import nekonime_thumbnail from "./Project_Previews/NekoNime_Thumbnail.jpg";
-import VIBCON_thumbnail from "./Project_Previews/VIBCON_Thumbnail.png"; 
+import VIBCON_thumbnail from "./Project_Previews/VIBCON_thumbnail.png"; 
 import communication from "./icons/communication.svg";
 import solution from "./icons/solution.svg";
 import brain from "./icons/brain.svg";
